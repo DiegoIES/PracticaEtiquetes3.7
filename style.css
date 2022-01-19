@@ -1,0 +1,45 @@
+header{
+    background-color: lightblue;
+}
+span.galileo{
+    /* Citado con italic*/
+font-style: italic;
+}
+
+
+
+span.aprovats{
+    /*CURSIVA*/
+    font-style: oblique;
+    color: blue;
+}
+
+span.tots{
+    font-weight: bold;
+    color: red;
+}
+
+span.iva{
+    font-size: smaller;
+
+}
+
+span.no{
+    text-decoration: line-through;
+    color: blue;
+    font-weight: bold;
+}
+
+span.canis{
+    font-style: italic;
+
+}
+
+span.xarxes{
+    font-weight: bold;
+
+}
+
+span.estudiar{
+    background-color: green;
+}
